@@ -3,6 +3,7 @@
 /* eslint spaced-comment:0 */
 /* eslint no-unused-vars:0 */
 
+import webpack from 'webpack';
 
 const OUT_DIR = "dist";
 
